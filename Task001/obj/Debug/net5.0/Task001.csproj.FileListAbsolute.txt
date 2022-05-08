@@ -1,0 +1,16 @@
+C:\Users\Ilmir\Desktop\GeekBrains\C#_HomeWork_1\Examples\Task001\bin\Debug\net5.0\Task001.exe
+C:\Users\Ilmir\Desktop\GeekBrains\C#_HomeWork_1\Examples\Task001\bin\Debug\net5.0\Task001.deps.json
+C:\Users\Ilmir\Desktop\GeekBrains\C#_HomeWork_1\Examples\Task001\bin\Debug\net5.0\Task001.runtimeconfig.json
+C:\Users\Ilmir\Desktop\GeekBrains\C#_HomeWork_1\Examples\Task001\bin\Debug\net5.0\Task001.runtimeconfig.dev.json
+C:\Users\Ilmir\Desktop\GeekBrains\C#_HomeWork_1\Examples\Task001\bin\Debug\net5.0\Task001.dll
+C:\Users\Ilmir\Desktop\GeekBrains\C#_HomeWork_1\Examples\Task001\bin\Debug\net5.0\ref\Task001.dll
+C:\Users\Ilmir\Desktop\GeekBrains\C#_HomeWork_1\Examples\Task001\bin\Debug\net5.0\Task001.pdb
+C:\Users\Ilmir\Desktop\GeekBrains\C#_HomeWork_1\Examples\Task001\obj\Debug\net5.0\Task001.csproj.AssemblyReference.cache
+C:\Users\Ilmir\Desktop\GeekBrains\C#_HomeWork_1\Examples\Task001\obj\Debug\net5.0\Task001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilmir\Desktop\GeekBrains\C#_HomeWork_1\Examples\Task001\obj\Debug\net5.0\Task001.AssemblyInfoInputs.cache
+C:\Users\Ilmir\Desktop\GeekBrains\C#_HomeWork_1\Examples\Task001\obj\Debug\net5.0\Task001.AssemblyInfo.cs
+C:\Users\Ilmir\Desktop\GeekBrains\C#_HomeWork_1\Examples\Task001\obj\Debug\net5.0\Task001.csproj.CoreCompileInputs.cache
+C:\Users\Ilmir\Desktop\GeekBrains\C#_HomeWork_1\Examples\Task001\obj\Debug\net5.0\Task001.dll
+C:\Users\Ilmir\Desktop\GeekBrains\C#_HomeWork_1\Examples\Task001\obj\Debug\net5.0\ref\Task001.dll
+C:\Users\Ilmir\Desktop\GeekBrains\C#_HomeWork_1\Examples\Task001\obj\Debug\net5.0\Task001.pdb
+C:\Users\Ilmir\Desktop\GeekBrains\C#_HomeWork_1\Examples\Task001\obj\Debug\net5.0\Task001.genruntimeconfig.cache
